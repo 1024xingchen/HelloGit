@@ -5,5 +5,7 @@ public class HelloGit {
         System.out.println("Hellow Git!");
 
         System.out.println("gengxin Version1");
+
+        System.out.println("创建分支");
     }
 }
